@@ -51,7 +51,7 @@ Hi, I'm Maliyka, a Cybersecurity student currently in my placement year, focusin
   </tr>
 </table>
 
-<p>More in my <a href="https://github.com/Maliyka-L/project-showcase">Project Showcase</a>.</p>
+<p>More in my <a href="https://github.com/Maliyka-L/Portfolio-showcase">Project Showcase</a>.</p>
 
 ### 🛠️ Tech Stack
 
