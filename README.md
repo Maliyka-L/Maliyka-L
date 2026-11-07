@@ -101,8 +101,7 @@ Hi, I'm Maliyka, a Cybersecurity student currently in my placement year, focusin
 ### 📫 Contact
 
 <p align="left">
-  <a href="LINKEDIN-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="LINKEDIN-LINK"><img src="[https://img.shields.io/badge/LinkedIn](https://www.linkedin.com/in/maliyka-l-21b53422b/)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
