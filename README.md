@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/NEW-USERNAME">
+  <a href="https://github.com/Maliyka-L">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=730&text=Hello!%20I'm%20Maliyka%20!" alt="Hello! I&#39;m Maliyka !" />
   </a>
 </p>
@@ -25,33 +25,33 @@ Hi, I'm Maliyka, a Cybersecurity student currently in my placement year, focusin
     <th>Tech</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/NEW-USERNAME/log_parser_alerting_tool">log_parser_alerting_tool</a></td>
+    <td><a href="https://github.com/Maliyka-L/log_parser_alerting_tool">log_parser_alerting_tool</a></td>
     <td>Scans log files for suspicious activity and raises alerts</td>
     <td>Python</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/NEW-USERNAME/Phishing_Email_Identifier">Phishing_Email_Identifier</a></td>
+    <td><a href="https://github.com/Maliyka-L/Phishing_Email_Identifier">Phishing_Email_Identifier</a></td>
     <td>Machine learning model that detects phishing emails</td>
     <td>Python, Jupyter</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/NEW-USERNAME/data_anonymisation_tool">data_anonymisation_tool</a></td>
+    <td><a href="https://github.com/Maliyka-L/data_anonymisation_tool">data_anonymisation_tool</a></td>
     <td>Anonymises CSV data with hashing, tokenisation, redaction and AES encryption</td>
     <td>Python</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/NEW-USERNAME/PasswordChecker">PasswordChecker</a></td>
+    <td><a href="https://github.com/Maliyka-L/PasswordChecker">PasswordChecker</a></td>
     <td>Rates password strength using entropy, pattern detection and crack-time estimates</td>
     <td>Python</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/NEW-USERNAME/htb-writeups">htb-writeups</a></td>
+    <td><a href="https://github.com/Maliyka-L/htb-writeups">htb-writeups</a></td>
     <td>Write-ups of retired Hack The Box machines</td>
     <td>Linux, Windows, AD</td>
   </tr>
 </table>
 
-<p>More in my <a href="https://github.com/NEW-USERNAME/project-showcase">Project Showcase</a>.</p>
+<p>More in my <a href="https://github.com/Maliyka-L/project-showcase">Project Showcase</a>.</p>
 
 ### 🛠️ Tech Stack
 
@@ -88,14 +88,14 @@ Hi, I'm Maliyka, a Cybersecurity student currently in my placement year, focusin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=NEW-USERNAME&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=NEW-USERNAME&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Maliyka-L&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Maliyka-L&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=NEW-USERNAME&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Maliyka-L&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 📫 Contact
@@ -106,4 +106,4 @@ Hi, I'm Maliyka, a Cybersecurity student currently in my placement year, focusin
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/NEW-USERNAME">NEW-USERNAME</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/Maliyka-L">Maliyka-L</a></i></p>
